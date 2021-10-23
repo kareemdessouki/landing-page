@@ -1,16 +1,16 @@
-# Landing Page Project {#heading1}
+# Landing Page Project 
 
-## Table of Contents {#sub1}
+## Table of Contents 
 
--[Title] (#heading1)
--[Table of Contents] (#sub1)
--[HTML Changes] (#sub2)
--[CSS Changes] (#sub3)
+- Title
+- Table of Contents
+- HTML Changes
+- CSS Changes
 
-## HTML Changes {#sub2}
+## HTML Changes
 
--Added an extra section.
+- Added an extra section.
 
-## CSS Changes {#sub3}
+## CSS Changes
 
--added active links styles 
+- added active links styles 
